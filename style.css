@@ -34,7 +34,6 @@ img:hover{
 .navItem {
     list-style-type:none;
     display:inline-flex;
-    
 }
 .navBar{
     padding:inherit;
@@ -42,6 +41,7 @@ img:hover{
     margin-left:0px;
     margin-right:0px;
     text-align:center;
+    margin-top: 30px;
 }
 
 .navLink{
@@ -54,6 +54,7 @@ img:hover{
     text-decoration:none;
     padding:5px 15px;
     font-family:Georgia, serif;
+    margin-top: 5px;
 }
 
 .navLink:hover{
